@@ -1,0 +1,11 @@
+:root{
+    --primarycolor: #425B8C;
+    --secondcolor: #A6567B;
+    --thirdcolor: #1B3C59;
+    --white: #fff;
+    --black: #000;
+}
+
+nav{
+    background-color:  var(--primarycolor) !important;
+}
