@@ -4,6 +4,7 @@
     --thirdcolor: #A6A6A6;
     --fourcolor: #F25D07;
     --fivercolor: #F6F6F6;
+    --redisafe: #F52F2C;
     --white: #fff;
     --black: #000;
 }
@@ -25,4 +26,28 @@ body{
     
 }
 
+.carousel-inner{
+    width: 100%;
+    max-height: 80rem;
+    margin: 0 auto;
+    background-color: #000;
+}
+
+.opacity{
+    opacity: 30%;
+}
+
+.textoSlide{
+    border-radius: 1rem;
+    color: var(--white);
+    position: absolute !important;
+}
+
+.tituloSlide{
+    color: var(--white);
+}
+
+.enphasis{
+    color: #F52F2C;
+}
 
